@@ -3,4 +3,4 @@ OpenCV Python Neural Network Autonomous RC Car. Inspired by  Wang Zheng Youtube 
 
 ### Step -1 
 
-Run stream_server_test.py in your computer
+Run Arduino Raspberry Interactive control Program to ensure proper commands reach Arduino 
