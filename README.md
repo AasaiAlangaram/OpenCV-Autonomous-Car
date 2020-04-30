@@ -5,7 +5,7 @@ OpenCV Python Neural Network Autonomous RC Car. Inspired by  Wang Zheng Youtube 
 
 Run Arduino Raspberry Interactive control Program to ensure proper commands reach Arduino 
 
-![Schematic](https://github.com/AasaiAlangaram/OpenCV-Autonomous-RC-Car/blob/master/Test%20-%20Arduino%20Raspberry%20pi%20Interactive%20control/Step1%20Schematic.png = 250x250)
+![Schematic](https://github.com/AasaiAlangaram/OpenCV-Autonomous-RC-Car/blob/master/Test%20-%20Arduino%20Raspberry%20pi%20Interactive%20control/Step1%20Schematic.png = 250x)
 ![Real](https://github.com/AasaiAlangaram/OpenCV-Autonomous-RC-Car/blob/master/Test%20-%20Arduino%20Raspberry%20pi%20Interactive%20control/Real.jpeg)
 
 ### Program Output
