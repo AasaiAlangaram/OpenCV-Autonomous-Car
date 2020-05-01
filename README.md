@@ -1,4 +1,4 @@
-# OpenCV-Autonomous-RC-Car
+# OpenCV-Autonomous-Car
 OpenCV Python Neural Network Autonomous Car. Inspired by  Wang Zheng Youtube Video.
 
 ### Step -1 
